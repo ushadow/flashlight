@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MIT Flashlight</string>
+    <string name="action_settings">Settings</string>
+    <string name="flashlight_label">Flashlight</string>
+    <string name="button_turnon_flash">Turn on flash</string>
+    <string name="button_capture">Capture</string>
+    <string name="captured_image_desc">Captured image</string>
+</resources>
